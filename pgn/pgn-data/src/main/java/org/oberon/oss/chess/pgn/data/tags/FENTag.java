@@ -1,10 +1,10 @@
 package org.oberon.oss.chess.pgn.data.tags;
 
 import org.jetbrains.annotations.NotNull;
-import org.oberon.oss.chess.fen.processing.FENPosition;
-import org.oberon.oss.chess.fen.processing.FENPositionTranslatorImpl;
-import org.oberon.oss.chess.base.interfaces.Field;
-import org.oberon.oss.chess.base.interfaces.Piece;
+import eu.oberon.oss.chess.fen.processing.FENPosition;
+import eu.oberon.oss.chess.fen.processing.FENPositionTranslatorImpl;
+import eu.oberon.oss.chess.base.interfaces.Field;
+import eu.oberon.oss.chess.base.interfaces.Piece;
 import org.oberon.oss.chess.pgn.data.tags.defs.AbstractTag;
 import org.oberon.oss.chess.pgn.data.tags.defs.TagValueFromString;
 
